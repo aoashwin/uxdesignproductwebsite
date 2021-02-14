@@ -34,7 +34,10 @@ Preview the prototype.
 
 ![output](./static/img/6.jpg)
 
+## Git hub repository
+
+https://github.com/aoashwin/uxdesignproductwebsite.git
 
 ## RESULT:
 
-Thus a UX design is designed for company website.
+Thus a UX design and wireframe is designed for product development company website.
